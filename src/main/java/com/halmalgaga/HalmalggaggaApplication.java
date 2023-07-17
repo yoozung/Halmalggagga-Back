@@ -19,6 +19,6 @@ public class HalmalggaggaApplication {
 		return String.format("Hello %s!", name);
 	}
 	
-	// yoozung commit test
+	// yoozung commit test  
 
 }
